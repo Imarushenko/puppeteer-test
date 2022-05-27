@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "puppeteer": "^14.1.1",
+    "puppeteer-core": "^14.1.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "jones-automation-test",
+  "version": "1.0.0",
+  "main": "index.test.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
